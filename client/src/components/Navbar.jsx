@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="navbar">
       <Link to="/gallery" className="navbar-brand">
         <span className="brand-icon">✦</span>
-        KEVI Designs
+        Riddhi Enterprise Stock
       </Link>
 
       <div className="navbar-links">
